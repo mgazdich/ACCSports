@@ -15,13 +15,21 @@
 		D86691211802388E00D50187 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D86691201802388E00D50187 /* AppDelegate.m */; };
 		D86691241802388E00D50187 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D86691221802388E00D50187 /* Main_iPhone.storyboard */; };
 		D86691271802388E00D50187 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D86691251802388E00D50187 /* Main_iPad.storyboard */; };
-		D866912A1802388E00D50187 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D86691291802388E00D50187 /* ViewController.m */; };
+		D866912A1802388E00D50187 /* InitialViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D86691291802388E00D50187 /* InitialViewController.m */; };
 		D866912C1802388E00D50187 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D866912B1802388E00D50187 /* Images.xcassets */; };
 		D86691331802388E00D50187 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D86691321802388E00D50187 /* XCTest.framework */; };
 		D86691341802388E00D50187 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D86691101802388E00D50187 /* Foundation.framework */; };
 		D86691351802388E00D50187 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D86691141802388E00D50187 /* UIKit.framework */; };
 		D866913D1802388E00D50187 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D866913B1802388E00D50187 /* InfoPlist.strings */; };
 		D866913F1802388E00D50187 /* ACCSportsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D866913E1802388E00D50187 /* ACCSportsTests.m */; };
+		D866914918023B6400D50187 /* accSports.plist in Resources */ = {isa = PBXBuildFile; fileRef = D866914818023B6400D50187 /* accSports.plist */; };
+		D866914B18023B7500D50187 /* accUniversityLogos.plist in Resources */ = {isa = PBXBuildFile; fileRef = D866914A18023B7500D50187 /* accUniversityLogos.plist */; };
+		D866914D18023B7D00D50187 /* homePage.html in Resources */ = {isa = PBXBuildFile; fileRef = D866914C18023B7D00D50187 /* homePage.html */; };
+		D866914F18023B8500D50187 /* sportNames.plist in Resources */ = {isa = PBXBuildFile; fileRef = D866914E18023B8500D50187 /* sportNames.plist */; };
+		D866915518023F8000D50187 /* SlidingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D866915418023F8000D50187 /* SlidingViewController.m */; };
+		D8669158180241AC00D50187 /* MenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8669157180241AC00D50187 /* MenuViewController.m */; };
+		D866915B1802425100D50187 /* TopNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = D866915A1802425100D50187 /* TopNavigationController.m */; };
+		D866915E180242A600D50187 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D866915D180242A600D50187 /* DetailViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,14 +55,26 @@
 		D86691201802388E00D50187 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		D86691231802388E00D50187 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		D86691261802388E00D50187 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
-		D86691281802388E00D50187 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		D86691291802388E00D50187 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		D86691281802388E00D50187 /* InitialViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InitialViewController.h; sourceTree = "<group>"; };
+		D86691291802388E00D50187 /* InitialViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InitialViewController.m; sourceTree = "<group>"; };
 		D866912B1802388E00D50187 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		D86691311802388E00D50187 /* ACCSportsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ACCSportsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D86691321802388E00D50187 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		D866913A1802388E00D50187 /* ACCSportsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ACCSportsTests-Info.plist"; sourceTree = "<group>"; };
 		D866913C1802388E00D50187 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D866913E1802388E00D50187 /* ACCSportsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ACCSportsTests.m; sourceTree = "<group>"; };
+		D866914818023B6400D50187 /* accSports.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = accSports.plist; sourceTree = "<group>"; };
+		D866914A18023B7500D50187 /* accUniversityLogos.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = accUniversityLogos.plist; sourceTree = "<group>"; };
+		D866914C18023B7D00D50187 /* homePage.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = homePage.html; sourceTree = "<group>"; };
+		D866914E18023B8500D50187 /* sportNames.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = sportNames.plist; sourceTree = "<group>"; };
+		D866915318023F8000D50187 /* SlidingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SlidingViewController.h; sourceTree = "<group>"; };
+		D866915418023F8000D50187 /* SlidingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SlidingViewController.m; sourceTree = "<group>"; };
+		D8669156180241AC00D50187 /* MenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuViewController.h; sourceTree = "<group>"; };
+		D8669157180241AC00D50187 /* MenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuViewController.m; sourceTree = "<group>"; };
+		D86691591802425100D50187 /* TopNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TopNavigationController.h; sourceTree = "<group>"; };
+		D866915A1802425100D50187 /* TopNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TopNavigationController.m; sourceTree = "<group>"; };
+		D866915C180242A600D50187 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		D866915D180242A600D50187 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,13 +134,16 @@
 		D86691161802388E00D50187 /* ACCSports */ = {
 			isa = PBXGroup;
 			children = (
-				D866911F1802388E00D50187 /* AppDelegate.h */,
-				D86691201802388E00D50187 /* AppDelegate.m */,
+				D866914818023B6400D50187 /* accSports.plist */,
+				D866914A18023B7500D50187 /* accUniversityLogos.plist */,
+				D866914C18023B7D00D50187 /* homePage.html */,
+				D866914E18023B8500D50187 /* sportNames.plist */,
 				D86691221802388E00D50187 /* Main_iPhone.storyboard */,
 				D86691251802388E00D50187 /* Main_iPad.storyboard */,
-				D86691281802388E00D50187 /* ViewController.h */,
-				D86691291802388E00D50187 /* ViewController.m */,
 				D866912B1802388E00D50187 /* Images.xcassets */,
+				D866915018023D2800D50187 /* AppDelegate */,
+				D866915118023E4E00D50187 /* View Controllers */,
+				D866915218023F3A00D50187 /* Sliding View Controller */,
 				D86691171802388E00D50187 /* Supporting Files */,
 			);
 			path = ACCSports;
@@ -153,6 +176,40 @@
 				D866913B1802388E00D50187 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D866915018023D2800D50187 /* AppDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				D86691201802388E00D50187 /* AppDelegate.m */,
+				D866911F1802388E00D50187 /* AppDelegate.h */,
+			);
+			name = AppDelegate;
+			sourceTree = "<group>";
+		};
+		D866915118023E4E00D50187 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				D86691281802388E00D50187 /* InitialViewController.h */,
+				D86691291802388E00D50187 /* InitialViewController.m */,
+				D8669156180241AC00D50187 /* MenuViewController.h */,
+				D8669157180241AC00D50187 /* MenuViewController.m */,
+				D86691591802425100D50187 /* TopNavigationController.h */,
+				D866915A1802425100D50187 /* TopNavigationController.m */,
+				D866915C180242A600D50187 /* DetailViewController.h */,
+				D866915D180242A600D50187 /* DetailViewController.m */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		D866915218023F3A00D50187 /* Sliding View Controller */ = {
+			isa = PBXGroup;
+			children = (
+				D866915318023F8000D50187 /* SlidingViewController.h */,
+				D866915418023F8000D50187 /* SlidingViewController.m */,
+			);
+			name = "Sliding View Controller";
+			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -202,6 +259,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Mike Gazdich";
 				TargetAttributes = {
+					D866910C1802388E00D50187 = {
+						DevelopmentTeam = 4YCR2BLXKU;
+					};
 					D86691301802388E00D50187 = {
 						TestTargetID = D866910C1802388E00D50187;
 					};
@@ -231,9 +291,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D866914D18023B7D00D50187 /* homePage.html in Resources */,
 				D86691271802388E00D50187 /* Main_iPad.storyboard in Resources */,
+				D866914918023B6400D50187 /* accSports.plist in Resources */,
 				D866912C1802388E00D50187 /* Images.xcassets in Resources */,
+				D866914B18023B7500D50187 /* accUniversityLogos.plist in Resources */,
 				D86691241802388E00D50187 /* Main_iPhone.storyboard in Resources */,
+				D866914F18023B8500D50187 /* sportNames.plist in Resources */,
 				D866911B1802388E00D50187 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -253,9 +317,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D866912A1802388E00D50187 /* ViewController.m in Sources */,
+				D866912A1802388E00D50187 /* InitialViewController.m in Sources */,
 				D86691211802388E00D50187 /* AppDelegate.m in Sources */,
 				D866911D1802388E00D50187 /* main.m in Sources */,
+				D866915B1802425100D50187 /* TopNavigationController.m in Sources */,
+				D866915518023F8000D50187 /* SlidingViewController.m in Sources */,
+				D8669158180241AC00D50187 /* MenuViewController.m in Sources */,
+				D866915E180242A600D50187 /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -392,6 +460,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ACCSports/ACCSports-Prefix.pch";
 				INFOPLIST_FILE = "ACCSports/ACCSports-Info.plist";
@@ -405,6 +474,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ACCSports/ACCSports-Prefix.pch";
 				INFOPLIST_FILE = "ACCSports/ACCSports-Info.plist";
@@ -474,6 +544,7 @@
 				D86691441802388E00D50187 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D86691451802388E00D50187 /* Build configuration list for PBXNativeTarget "ACCSportsTests" */ = {
 			isa = XCConfigurationList;
@@ -482,6 +553,7 @@
 				D86691471802388E00D50187 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

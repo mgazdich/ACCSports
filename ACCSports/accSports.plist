@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Boston College</key>
+	<dict>
+		<key>Men&apos;s Sports</key>
+		<dict>
+			<key>Baseball</key>
+			<string>http://bceagles.cstv.com/sports/m-basebl/bc-m-basebl-body.html</string>
+			<key>Basketball</key>
+			<string>http://bceagles.cstv.com/sports/m-baskbl/bc-m-baskbl-body.html</string>
+			<key>Football</key>
+			<string>http://bceagles.cstv.com/sports/m-footbl/bc-m-footbl-body.html</string>
+			<key>Golf</key>
+			<string>http://bceagles.cstv.com/sports/m-golf/bc-m-golf-body.html</string>
+			<key>Soccer</key>
+			<string>http://bceagles.cstv.com/sports/m-soccer/bc-m-soccer-body.html</string>
+			<key>Tennis</key>
+			<string>http://bceagles.cstv.com/sports/m-tennis/bc-m-tennis-body.html</string>
+		</dict>
+		<key>Women&apos;s Sports</key>
+		<dict>
+			<key>Basketball</key>
+			<string>http://bceagles.cstv.com/sports/w-baskbl/bc-w-baskbl-body.html</string>
+			<key>Soccer</key>
+			<string>http://bceagles.cstv.com/sports/w-soccer/bc-w-soccer-body.html</string>
+			<key>Softball</key>
+			<string>http://bceagles.cstv.com/sports/w-softbl/bc-w-softbl-body.html</string>
+			<key>Tennis</key>
+			<string>http://bceagles.cstv.com/sports/w-tennis/bc-w-tennis-body.html</string>
+			<key>Volleyball</key>
+			<string>http://bceagles.cstv.com/sports/w-volley/bc-w-volley-body.html</string>
+		</dict>
+	</dict>
+	<key>Clemson University</key>
+	<dict>
+		<key>Men&apos;s Sports</key>
+		<dict>
+			<key>Baseball</key>
+			<string>http://clemsontigers.cstv.com/sports/m-basebl/clem-m-basebl-body.html</string>
+			<key>Basketball</key>
+			<string>http://clemsontigers.cstv.com/sports/m-baskbl/clem-m-baskbl-body.html</string>
+			<key>Football</key>
+			<string>http://clemsontigers.cstv.com/sports/m-footbl/clem-m-footbl-body.html</string>
+			<key>Golf</key>
+			<string>http://clemsontigers.cstv.com/sports/m-golf/clem-m-golf-body.html</string>
+			<key>Soccer</key>
+			<string>http://clemsontigers.cstv.com/sports/m-soccer/clem-m-soccer-body.html</string>
+			<key>Tennis</key>
+			<string>http://clemsontigers.cstv.com/sports/m-tennis/clem-m-tennis-body.html</string>
+		</dict>
+		<key>Women&apos;s Sports</key>
+		<dict>
+			<key>Basketball</key>
+			<string>http://clemsontigers.cstv.com/sports/w-baskbl/clem-w-baskbl-body.html</string>
+			<key>Soccer</key>
+			<string>http://clemsontigers.cstv.com/sports/w-soccer/clem-w-soccer-body.html</string>
+			<key>Tennis</key>
+			<string>http://clemsontigers.cstv.com/sports/w-tennis/clem-w-tennis-body.html</string>
+			<key>Volleyball</key>
+			<string>http://clemsontigers.cstv.com/sports/w-volley/clem-w-volley-body.html</string>
+		</dict>
+	</dict>
+	<key>Duke University</key>
+	<dict>
+		<key>Men&apos;s Sports</key>
+		<dict>
+			<key>Baseball</key>
+			<string>http://www.goduke.com/SportSelect.dbml?&amp;DB_OEM_ID=4200&amp;KEY=&amp;SPID=1850&amp;SPSID=22847</string>
+			<key>Basketball</key>
+			<string>http://www.goduke.com/SportSelect.dbml?&amp;DB_OEM_ID=4200&amp;KEY=&amp;SPID=1845&amp;SPSID=22724</string>
+			<key>Football</key>
+			<string>http://www.goduke.com/SportSelect.dbml?&amp;DB_OEM_ID=4200&amp;KEY=&amp;SPID=1843&amp;SPSID=22672</string>
+			<key>Golf</key>
+			<string>http://www.goduke.com/SportSelect.dbml?&amp;DB_OEM_ID=4200&amp;KEY=&amp;SPID=1837&amp;SPSID=22552</string>
+			<key>Soccer</key>
+			<string>http://www.goduke.com/SportSelect.dbml?&amp;DB_OEM_ID=4200&amp;KEY=&amp;SPID=1833&amp;SPSID=22445</string>
+			<key>Tennis</key>
+			<string>http://www.goduke.com/SportSelect.dbml?&amp;DB_OEM_ID=4200&amp;KEY=&amp;SPID=1839&amp;SPSID=22583</string>
+		</dict>
+		<key>Women&apos;s Sports</key>
+		<dict>
+			<key>Basketball</key>
+			<string>http://www.goduke.com/SportSelect.dbml?&amp;DB_OEM_ID=4200&amp;KEY=&amp;SPID=1846&amp;SPSID=22760</string>
+			<key>Golf</key>
+			<string>http://www.goduke.com/SportSelect.dbml?&amp;DB_OEM_ID=4200&amp;SPID=1838&amp;SPSID=22558</string>
+			<key>Soccer</key>
+			<string>http://www.goduke.com/SportSelect.dbml?&amp;DB_OEM_ID=4200&amp;KEY=&amp;SPID=1842&amp;SPSID=22662</string>
+			<key>Tennis</key>
+			<string>http://www.goduke.com/SportSelect.dbml?&amp;DB_OEM_ID=4200&amp;KEY=&amp;SPID=1840&amp;SPSID=22607</string>
+			<key>Volleyball</key>
+			<string>http://www.goduke.com/SportSelect.dbml?&amp;DB_OEM_ID=4200&amp;KEY=&amp;SPID=1844&amp;SPSID=22699</string>
+		</dict>
+	</dict>
+	<key>Florida State University</key>
+	<dict>
+		<key>Men&apos;s Sports</key>
+		<dict>
+			<key>Baseball</key>
+			<string>http://www.seminoles.com/sports/m-basebl/fsu-m-basebl-body.html</string>
+			<key>Basketball</key>
+			<string>http://www.seminoles.com/sports/m-baskbl/fsu-m-baskbl-body.html</string>
+			<key>Football</key>
+			<string>http://www.seminoles.com/sports/m-footbl/fsu-m-footbl-body.html</string>
+			<key>Golf</key>
+			<string>http://www.seminoles.com/sports/m-golf/fsu-m-golf-body.html</string>
+			<key>Tennis</key>
+			<string>http://www.seminoles.com/sports/m-tennis/fsu-m-tennis-body.html</string>
+		</dict>
+		<key>Women&apos;s Sports</key>
+		<dict>
+			<key>Basketball</key>
+			<string>http://www.seminoles.com/sports/w-baskbl/fsu-w-baskbl-body.html</string>
+			<key>Golf</key>
+			<string>http://www.seminoles.com/sports/w-golf/fsu-w-golf-body.html</string>
+			<key>Soccer</key>
+			<string>http://www.seminoles.com/sports/w-soccer/fsu-w-soccer-body.html</string>
+			<key>Softball</key>
+			<string>http://www.seminoles.com/sports/w-softbl/fsu-w-softbl-body.html</string>
+			<key>Tennis</key>
+			<string>http://www.seminoles.com/sports/w-tennis/fsu-w-tennis-body.html</string>
+			<key>Volleyball</key>
+			<string>http://www.seminoles.com/sports/w-volley/fsu-w-volley-body.html</string>
+		</dict>
+	</dict>
+	<key>Georgia Institute of Technology</key>
+	<dict>
+		<key>Men&apos;s Sports</key>
+		<dict>
+			<key>Baseball</key>
+			<string>http://ramblinwreck.cstv.com/sports/m-basebl/geot-m-basebl-body.html</string>
+			<key>Basketball</key>
+			<string>http://ramblinwreck.cstv.com/sports/m-baskbl/geot-m-baskbl-body.html</string>
+			<key>Football</key>
+			<string>http://ramblinwreck.cstv.com/sports/m-footbl/geot-m-footbl-body.html</string>
+			<key>Golf</key>
+			<string>http://ramblinwreck.cstv.com/sports/m-golf/geot-m-golf-body.html</string>
+			<key>Tennis</key>
+			<string>http://ramblinwreck.cstv.com/sports/m-tennis/geot-m-tennis-body.html</string>
+		</dict>
+		<key>Women&apos;s Sports</key>
+		<dict>
+			<key>Basketball</key>
+			<string>http://ramblinwreck.cstv.com/sports/w-baskbl/geot-w-baskbl-body.html</string>
+			<key>Softball</key>
+			<string>http://ramblinwreck.cstv.com/sports/w-softbl/geot-w-softbl-body.html</string>
+			<key>Tennis</key>
+			<string>http://ramblinwreck.cstv.com/sports/w-tennis/geot-w-tennis-body.html</string>
+			<key>Volleyball</key>
+			<string>http://ramblinwreck.cstv.com/sports/w-volley/geot-w-volley-body.html</string>
+		</dict>
+	</dict>
+	<key>North Carolina State University</key>
+	<dict>
+		<key>Men&apos;s Sports</key>
+		<dict>
+			<key>Baseball</key>
+			<string>http://www.gopack.com/sports/m-basebl/ncst-m-basebl-body.html</string>
+			<key>Basketball</key>
+			<string>http://www.gopack.com/sports/m-baskbl/ncst-m-baskbl-body.html</string>
+			<key>Football</key>
+			<string>http://www.gopack.com/sports/m-footbl/ncst-m-footbl-body.html</string>
+			<key>Golf</key>
+			<string>http://www.gopack.com/sports/m-golf/ncst-m-golf-body.html</string>
+			<key>Soccer</key>
+			<string>http://www.gopack.com/sports/m-soccer/ncst-m-soccer-body.html</string>
+			<key>Tennis</key>
+			<string>http://www.gopack.com/sports/m-tennis/ncst-m-tennis-body.html</string>
+		</dict>
+		<key>Women&apos;s Sports</key>
+		<dict>
+			<key>Basketball</key>
+			<string>http://www.gopack.com/sports/w-baskbl/ncst-w-baskbl-body.html</string>
+			<key>Golf</key>
+			<string>http://www.gopack.com/sports/w-golf/ncst-w-golf-body.html</string>
+			<key>Soccer</key>
+			<string>http://www.gopack.com/sports/w-soccer/ncst-w-soccer-body.html</string>
+			<key>Softball</key>
+			<string>http://www.gopack.com/sports/w-softbl/ncst-w-softbl-body.html</string>
+			<key>Tennis</key>
+			<string>http://www.gopack.com/sports/w-tennis/ncst-w-tennis-body.html</string>
+			<key>Volleyball</key>
+			<string>http://www.gopack.com/sports/w-volley/ncst-w-volley-body.html</string>
+		</dict>
+	</dict>
+	<key>Syracuse University</key>
+	<dict>
+		<key>Men&apos;s Sports</key>
+		<dict>
+			<key>Basketball</key>
+			<string>http://suathletics.syr.edu/index.aspx?path=mbasket&amp;tab=basketball</string>
+			<key>Football</key>
+			<string>http://suathletics.syr.edu/index.aspx?path=football&amp;tab=football</string>
+			<key>Soccer</key>
+			<string>http://suathletics.syr.edu/index.aspx?path=msoccer&amp;tab=soccer</string>
+		</dict>
+		<key>Women&apos;s Sports</key>
+		<dict>
+			<key>Basketball</key>
+			<string>http://suathletics.syr.edu/index.aspx?path=wbasket&amp;tab=basketball</string>
+			<key>Soccer</key>
+			<string>http://suathletics.syr.edu/index.aspx?path=wsoccer&amp;tab=soccer</string>
+			<key>Softball</key>
+			<string>http://suathletics.syr.edu/index.aspx?path=softball&amp;tab=softball</string>
+			<key>Tennis</key>
+			<string>http://suathletics.syr.edu/index.aspx?path=tennis&amp;tab=tennis&amp;path=Tennis</string>
+			<key>Volleyball</key>
+			<string>http://suathletics.syr.edu/index.aspx?path=vball&amp;tab=volleyball</string>
+		</dict>
+	</dict>
+	<key>University of Louisville</key>
+	<dict>
+		<key>Men&apos;s Sports</key>
+		<dict>
+			<key>Baseball</key>
+			<string>http://www.gocards.com/sports/m-basebl/lou-m-basebl-body.html</string>
+			<key>Basketball</key>
+			<string>http://www.gocards.com/sports/m-baskbl/lou-m-baskbl-body.html</string>
+			<key>Football</key>
+			<string>http://www.gocards.com/sports/m-footbl/lou-m-footbl-body.html</string>
+			<key>Golf</key>
+			<string>http://www.gocards.com/sports/m-golf/lou-m-golf-body.html</string>
+			<key>Soccer</key>
+			<string>http://www.gocards.com/sports/m-soccer/lou-m-soccer-body.html</string>
+			<key>Tennis</key>
+			<string>http://www.gocards.com/sports/m-tennis/lou-m-tennis-body.html</string>
+		</dict>
+		<key>Women&apos;s Sports</key>
+		<dict>
+			<key>Basketball</key>
+			<string>http://www.gocards.com/sports/w-baskbl/lou-w-baskbl-body.html</string>
+			<key>Golf</key>
+			<string>http://www.gocards.com/sports/w-golf/lou-w-golf-body.html</string>
+			<key>Soccer</key>
+			<string>http://www.gocards.com/sports/w-soccer/lou-w-soccer-body.html</string>
+			<key>Softball</key>
+			<string>http://www.gocards.com/sports/w-softbl/lou-w-softbl-body.html</string>
+			<key>Tennis</key>
+			<string>http://www.gocards.com/sports/w-tennis/lou-w-tennis-body.html</string>
+			<key>Volleyball</key>
+			<string>http://www.gocards.com/sports/w-volley/lou-w-volley-body.html</string>
+		</dict>
+	</dict>
+	<key>University of Miami</key>
+	<dict>
+		<key>Men&apos;s Sports</key>
+		<dict>
+			<key>Baseball</key>
+			<string>http://hurricanesports.cstv.com/sports/m-basebl/mifl-m-basebl-body.html</string>
+			<key>Basketball</key>
+			<string>http://hurricanesports.cstv.com/sports/m-baskbl/mifl-m-baskbl-body.html</string>
+			<key>Football</key>
+			<string>http://hurricanesports.cstv.com/sports/m-footbl/mifl-m-footbl-body.html</string>
+			<key>Tennis</key>
+			<string>http://hurricanesports.cstv.com/sports/m-tennis/mifl-m-tennis-body.html</string>
+		</dict>
+		<key>Women&apos;s Sports</key>
+		<dict>
+			<key>Basketball</key>
+			<string>http://hurricanesports.cstv.com/sports/w-baskbl/mifl-w-baskbl-body.html</string>
+			<key>Golf</key>
+			<string>http://hurricanesports.cstv.com/sports/w-golf/mifl-w-golf-body.html</string>
+			<key>Soccer</key>
+			<string>http://hurricanesports.cstv.com/sports/w-soccer/mifl-w-soccer-body.html</string>
+			<key>Tennis</key>
+			<string>http://hurricanesports.cstv.com/sports/w-tennis/mifl-w-tennis-body.html</string>
+			<key>Volleyball</key>
+			<string>http://hurricanesports.cstv.com/sports/w-volley/mifl-w-volley-body.html</string>
+		</dict>
+	</dict>
+	<key>University of North Carolina</key>
+	<dict>
+		<key>Men&apos;s Sports</key>
+		<dict>
+			<key>Baseball</key>
+			<string>http://tarheelblue.cstv.com/sports/m-basebl/unc-m-basebl-body.html</string>
+			<key>Basketball</key>
+			<string>http://tarheelblue.cstv.com/sports/m-baskbl/unc-m-baskbl-body.html</string>
+			<key>Football</key>
+			<string>http://tarheelblue.cstv.com/sports/m-footbl/unc-m-footbl-body.html</string>
+			<key>Golf</key>
+			<string>http://tarheelblue.cstv.com/sports/m-golf/unc-m-golf-body.html</string>
+			<key>Soccer</key>
+			<string>http://tarheelblue.cstv.com/sports/m-soccer/unc-m-soccer-body.html</string>
+			<key>Tennis</key>
+			<string>http://tarheelblue.cstv.com/sports/m-tennis/unc-m-tennis-body.html</string>
+		</dict>
+		<key>Women&apos;s Sports</key>
+		<dict>
+			<key>Basketball</key>
+			<string>http://tarheelblue.cstv.com/sports/w-baskbl/unc-w-baskbl-body.html</string>
+			<key>Golf</key>
+			<string>http://tarheelblue.cstv.com/sports/w-golf/unc-w-golf-body.html</string>
+			<key>Soccer</key>
+			<string>http://tarheelblue.cstv.com/sports/w-soccer/unc-w-soccer-body.html</string>
+			<key>Softball</key>
+			<string>http://tarheelblue.cstv.com/sports/w-softbl/unc-w-softbl-body.html</string>
+			<key>Tennis</key>
+			<string>http://tarheelblue.cstv.com/sports/w-tennis/unc-w-tennis-body.html</string>
+			<key>Volleyball</key>
+			<string>http://tarheelblue.cstv.com/sports/w-volley/unc-w-volley-body.html</string>
+		</dict>
+	</dict>
+	<key>University of Pittsburgh</key>
+	<dict>
+		<key>Men&apos;s Sports</key>
+		<dict>
+			<key>Baseball</key>
+			<string>http://www.pittsburghpanthers.com/sports/m-basebl/pitt-m-basebl-body.html</string>
+			<key>Basketball</key>
+			<string>http://www.pittsburghpanthers.com/sports/m-baskbl/pitt-m-baskbl-body.html</string>
+			<key>Football</key>
+			<string>http://www.pittsburghpanthers.com/sports/m-footbl/pitt-m-footbl-body.html</string>
+			<key>Soccer</key>
+			<string>http://www.pittsburghpanthers.com/sports/m-soccer/pitt-m-soccer-body.html</string>
+		</dict>
+		<key>Women&apos;s Sports</key>
+		<dict>
+			<key>Basketball</key>
+			<string>http://www.pittsburghpanthers.com/sports/w-baskbl/pitt-w-baskbl-body.html</string>
+			<key>Soccer</key>
+			<string>http://www.pittsburghpanthers.com/sports/w-soccer/pitt-w-soccer-body.html</string>
+			<key>Softball</key>
+			<string>http://www.pittsburghpanthers.com/sports/w-softbl/pitt-w-softbl-body.html</string>
+			<key>Tennis</key>
+			<string>http://www.pittsburghpanthers.com/sports/w-tennis/pitt-w-tennis-body.html</string>
+			<key>Volleyball</key>
+			<string>http://www.pittsburghpanthers.com/sports/w-volley/pitt-w-volley-body.html</string>
+		</dict>
+	</dict>
+	<key>University of Virginia</key>
+	<dict>
+		<key>Men&apos;s Sports</key>
+		<dict>
+			<key>Baseball</key>
+			<string>http://www.virginiasports.com/sports/m-basebl/va-m-basebl-body.html</string>
+			<key>Basketball</key>
+			<string>http://www.virginiasports.com/sports/m-baskbl/va-m-baskbl-body.html</string>
+			<key>Football</key>
+			<string>http://www.virginiasports.com/sports/m-footbl/va-m-footbl-body.html</string>
+			<key>Golf</key>
+			<string>http://www.virginiasports.com/sports/m-golf/va-m-golf-body.html</string>
+			<key>Soccer</key>
+			<string>http://www.virginiasports.com/sports/m-soccer/va-m-soccer-body.html</string>
+			<key>Tennis</key>
+			<string>http://www.virginiasports.com/sports/m-tennis/va-m-tennis-body.html</string>
+		</dict>
+		<key>Women&apos;s Sports</key>
+		<dict>
+			<key>Basketball</key>
+			<string>http://www.virginiasports.com/sports/w-baskbl/va-w-baskbl-body.html</string>
+			<key>Golf</key>
+			<string>http://www.virginiasports.com/sports/w-golf/va-w-golf-body.html</string>
+			<key>Soccer</key>
+			<string>http://www.virginiasports.com/sports/w-soccer/va-w-soccer-body.html</string>
+			<key>Softball</key>
+			<string>http://www.virginiasports.com/sports/w-softbl/va-w-softbl-body.html</string>
+			<key>Tennis</key>
+			<string>http://www.virginiasports.com/sports/w-tennis/va-w-tennis-body.html</string>
+			<key>Volleyball</key>
+			<string>http://www.virginiasports.com/sports/w-volley/va-w-volley-body.html</string>
+		</dict>
+	</dict>
+	<key>Virginia Tech</key>
+	<dict>
+		<key>Men&apos;s Sports</key>
+		<dict>
+			<key>Baseball</key>
+			<string>http://www.hokiesports.com/baseball/</string>
+			<key>Basketball</key>
+			<string>http://www.hokiesports.com/mbasketball/</string>
+			<key>Football</key>
+			<string>http://www.hokiesports.com/football/</string>
+			<key>Golf</key>
+			<string>http://www.hokiesports.com/golf/</string>
+			<key>Soccer</key>
+			<string>http://www.hokiesports.com/msoccer/</string>
+			<key>Tennis</key>
+			<string>http://www.hokiesports.com/mtennis/</string>
+		</dict>
+		<key>Women&apos;s Sports</key>
+		<dict>
+			<key>Basketball</key>
+			<string>http://www.hokiesports.com/wbasketball/</string>
+			<key>Golf</key>
+			<string>http://www.hokiesports.com/golf/</string>
+			<key>Soccer</key>
+			<string>http://www.hokiesports.com/wsoccer/</string>
+			<key>Softball</key>
+			<string>http://www.hokiesports.com/softball/</string>
+			<key>Tennis</key>
+			<string>http://www.hokiesports.com/wtennis/</string>
+			<key>Volleyball</key>
+			<string>http://www.hokiesports.com/volleyball/</string>
+		</dict>
+	</dict>
+	<key>Wake Forest University</key>
+	<dict>
+		<key>Men&apos;s Sports</key>
+		<dict>
+			<key>Baseball</key>
+			<string>http://wakeforestsports.cstv.com/sports/m-basebl/wake-m-basebl-body.html</string>
+			<key>Basketball</key>
+			<string>http://wakeforestsports.cstv.com/sports/m-baskbl/wake-m-baskbl-body.html</string>
+			<key>Football</key>
+			<string>http://wakeforestsports.cstv.com/sports/m-footbl/wake-m-footbl-body.html</string>
+			<key>Golf</key>
+			<string>http://wakeforestsports.cstv.com/sports/m-golf/wake-m-golf-body.html</string>
+			<key>Soccer</key>
+			<string>http://wakeforestsports.cstv.com/sports/m-soccer/wake-m-soccer-body.html</string>
+			<key>Tennis</key>
+			<string>http://wakeforestsports.cstv.com/sports/m-tennis/wake-m-tennis-body.html</string>
+		</dict>
+		<key>Women&apos;s Sports</key>
+		<dict>
+			<key>Basketball</key>
+			<string>http://wakeforestsports.cstv.com/sports/w-baskbl/wake-w-baskbl-body.html</string>
+			<key>Golf</key>
+			<string>http://wakeforestsports.cstv.com/sports/w-golf/wake-w-golf-body.html</string>
+			<key>Soccer</key>
+			<string>http://wakeforestsports.cstv.com/sports/w-soccer/wake-w-soccer-body.html</string>
+			<key>Tennis</key>
+			<string>http://wakeforestsports.cstv.com/sports/w-tennis/wake-w-tennis-body.html</string>
+			<key>Volleyball</key>
+			<string>http://wakeforestsports.cstv.com/sports/w-volley/wake-w-volley-body.html</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
